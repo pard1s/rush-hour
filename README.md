@@ -6,6 +6,7 @@ sample input/output would be:
 
 ![sample input](https://github.com/pard1s/rush-hour/blob/main/sample%20input%20sc.jpg)
 
+result:
 ![smaple output1](https://github.com/pard1s/rush-hour/blob/main/sample%20output%201.jpg)
 
 ![smaple output1](https://github.com/pard1s/rush-hour/blob/main/smaple%20out%20put%202.jpg)
